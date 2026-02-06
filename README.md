@@ -42,10 +42,10 @@ git clone https://github.com/print-aash/OS-Aware_System_Tool.git
 cd OS-Aware_System_Tool
 
 <h2>3️⃣ Give execute permission</h2>
-chmod +x system_tool.sh
+chmod +x System_Tool.sh
 
 <h2>4️⃣ Run the script</h2>
-./system_tool.sh
+./System_Tool.sh
 
 <h1>🛠 Built With
 Bash Shell
